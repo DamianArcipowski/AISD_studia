@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ox314XoeqxZqnZjLPdpST72/mr173fo/0GB9zo6mvX7IDdYRuaBkD/8iUb9DvxTCttj57R2B93lGuQWyTR63CA==",
+  "success": true,
+  "projectFilePath": "/home/damian/Desktop/AISD_studia/AISD_studia.csproj",
+  "expectedPackageFiles": [
+    "/home/damian/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/damian/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/damian/.nuget/packages/system.drawing-dotnet-core/1.2.3/system.drawing-dotnet-core.1.2.3.nupkg.sha512",
+    "/home/damian/.nuget/packages/system.drawing.primitives/4.3.0/system.drawing.primitives.4.3.0.nupkg.sha512",
+    "/home/damian/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/damian/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
