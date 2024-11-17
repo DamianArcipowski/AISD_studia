@@ -1,5 +1,0 @@
-/home/damian/Desktop/AISD_studia/obj/Debug/net8.0/AISD_studia.GeneratedMSBuildEditorConfig.editorconfig
-/home/damian/Desktop/AISD_studia/obj/Debug/net8.0/AISD_studia.AssemblyInfoInputs.cache
-/home/damian/Desktop/AISD_studia/obj/Debug/net8.0/AISD_studia.AssemblyInfo.cs
-/home/damian/Desktop/AISD_studia/obj/Debug/net8.0/AISD_studia.csproj.CoreCompileInputs.cache
-/home/damian/Desktop/AISD_studia/obj/Debug/net8.0/AISD_studia.csproj.AssemblyReference.cache
